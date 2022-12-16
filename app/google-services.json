@@ -1,0 +1,243 @@
+{
+  "project_info": {
+    "project_number": "923929262119",
+    "firebase_url": "https://new-testing-apps-default-rtdb.firebaseio.com",
+    "project_id": "new-testing-apps",
+    "storage_bucket": "new-testing-apps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923929262119:android:cbe9ab701bf3df759f3602",
+        "android_client_info": {
+          "package_name": "com.asma.fooddelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923929262119-jtnkpje0n4dn0nvqaldigrg0697p01oh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2oEvIjdziILRw9rjWntQsqvF1BsKo2BU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923929262119-jtnkpje0n4dn0nvqaldigrg0697p01oh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923929262119:android:10cebf324b7882f49f3602",
+        "android_client_info": {
+          "package_name": "com.asma.furnitureapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923929262119-jtnkpje0n4dn0nvqaldigrg0697p01oh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2oEvIjdziILRw9rjWntQsqvF1BsKo2BU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923929262119-jtnkpje0n4dn0nvqaldigrg0697p01oh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923929262119:android:0b3249c1f049fa409f3602",
+        "android_client_info": {
+          "package_name": "com.asma.recipeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923929262119-jtnkpje0n4dn0nvqaldigrg0697p01oh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2oEvIjdziILRw9rjWntQsqvF1BsKo2BU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923929262119-jtnkpje0n4dn0nvqaldigrg0697p01oh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923929262119:android:866e89df7515ba409f3602",
+        "android_client_info": {
+          "package_name": "com.asmadev.firebaseapptest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923929262119-jtnkpje0n4dn0nvqaldigrg0697p01oh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2oEvIjdziILRw9rjWntQsqvF1BsKo2BU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923929262119-jtnkpje0n4dn0nvqaldigrg0697p01oh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923929262119:android:014bd46ab8f52e4a9f3602",
+        "android_client_info": {
+          "package_name": "com.asmadev.furniturepurchasingapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923929262119-jtnkpje0n4dn0nvqaldigrg0697p01oh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2oEvIjdziILRw9rjWntQsqvF1BsKo2BU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923929262119-jtnkpje0n4dn0nvqaldigrg0697p01oh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923929262119:android:6785334b041e01949f3602",
+        "android_client_info": {
+          "package_name": "com.asmadev.myapplicationnn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923929262119-jtnkpje0n4dn0nvqaldigrg0697p01oh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2oEvIjdziILRw9rjWntQsqvF1BsKo2BU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923929262119-jtnkpje0n4dn0nvqaldigrg0697p01oh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923929262119:android:7963db2408c059379f3602",
+        "android_client_info": {
+          "package_name": "com.example.marriagehallbookingmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923929262119-jtnkpje0n4dn0nvqaldigrg0697p01oh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2oEvIjdziILRw9rjWntQsqvF1BsKo2BU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923929262119-jtnkpje0n4dn0nvqaldigrg0697p01oh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923929262119:android:17ed8a54ff1716f69f3602",
+        "android_client_info": {
+          "package_name": "com.example.myapplicationtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923929262119-jtnkpje0n4dn0nvqaldigrg0697p01oh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2oEvIjdziILRw9rjWntQsqvF1BsKo2BU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923929262119-jtnkpje0n4dn0nvqaldigrg0697p01oh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
